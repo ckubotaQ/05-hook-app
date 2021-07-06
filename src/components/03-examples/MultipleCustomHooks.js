@@ -16,7 +16,6 @@ export const MultipleCustomHooks = () => {
 
             loading
             ? 
-            
                 (
                     <div className="alert alert-info text-center">
                 loading...
